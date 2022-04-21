@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Morandi</title>
+  <title>Morandi.s Blog</title>
   
   <subtitle>Morandiの博客</subtitle>
   <link href="https://github.com/morandi484/morandi484.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/morandi484/morandi484.github.io.git/"/>
-  <updated>2021-09-07T14:52:39.538Z</updated>
+  <updated>2022-04-21T14:23:03.477Z</updated>
   <id>https://github.com/morandi484/morandi484.github.io.git/</id>
   
   <author>
@@ -17,19 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>博客与博主</title>
+    <title>恭喜自己，好不容易遇到你</title>
     <link href="https://github.com/morandi484/morandi484.github.io.git/posts/1.html"/>
     <id>https://github.com/morandi484/morandi484.github.io.git/posts/1.html</id>
-    <published>2021-05-27T13:00:00.000Z</published>
-    <updated>2021-09-07T14:52:39.538Z</updated>
+    <published>2022-04-20T13:00:00.000Z</published>
+    <updated>2022-04-21T14:23:03.477Z</updated>
     
-    <content type="html"><![CDATA[<p>相遇皆是缘分</p><h3 id="为什么建博客？"><a href="#为什么建博客？" class="headerlink" title="为什么建博客？"></a>为什么建博客？</h3><p>肿么说了! 纯属个人兴趣，好玩，唉，就是玩!嘻嘻! 会有些成就感吧,拥有一个自己的博客写一些自己感兴趣的事或物,不是一件很酷的事嘛!</p><h3 id="展望博客"><a href="#展望博客" class="headerlink" title="展望博客"></a>展望博客</h3><p>我会整理一些个人所学的知识（学前端的，也会捣鼓捣鼓一些其它的专业的知识）或生活方面有兴趣的事发到博客上供大家观摩</p><h3 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h3><p>有位可爱的（小）朋友，给我取名叫 “仙气”，这是也是我博客上自居 “仙气” 的由来。喜欢自己所喜欢的，做自己想做的，追求自由与潇洒，多酷啊！ 想法是美好的，可现实… …   给大家推荐一首诗吧</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"> 《自由与爱情》---作者:裴多菲​ 生命诚可贵​ 爱情价更高​ 若为自由故​ 二者皆可抛<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>溜溜球啦！</p>]]></content>
+    <content type="html"><![CDATA[<p>进步一点点</p><h3 id="为什么建博客？"><a href="#为什么建博客？" class="headerlink" title="为什么建博客？"></a>为什么建博客？</h3><p>就是玩</p><h3 id="展望博客"><a href="#展望博客" class="headerlink" title="展望博客"></a>展望博客</h3><p>整理一些前端知识、优秀的设计作品或生活方面有兴趣的事发到博客上供大家交流</p><h3 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h3><p>憨批一个</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;相遇皆是缘分&lt;/p&gt;
-&lt;h3 id=&quot;为什么建博客？&quot;&gt;&lt;a href=&quot;#为什么建博客？&quot; class=&quot;headerlink&quot; title=&quot;为什么建博客？&quot;&gt;&lt;/a&gt;为什么建博客？&lt;/h3&gt;&lt;p&gt;肿么说了! 纯属个人兴趣，好玩，唉，就是玩!嘻嘻! 会有些成就感吧,拥有</summary>
+    <summary type="html">&lt;p&gt;进步一点点&lt;/p&gt;
+&lt;h3 id=&quot;为什么建博客？&quot;&gt;&lt;a href=&quot;#为什么建博客？&quot; class=&quot;headerlink&quot; title=&quot;为什么建博客？&quot;&gt;&lt;/a&gt;为什么建博客？&lt;/h3&gt;&lt;p&gt;就是玩&lt;/p&gt;
+&lt;h3 id=&quot;展望博客&quot;&gt;&lt;a href=&quot;#展望博客&quot;</summary>
       
     
     
@@ -42,24 +43,24 @@
   </entry>
   
   <entry>
-    <title>博客与博主</title>
-    <link href="https://github.com/morandi484/morandi484.github.io.git/posts/1.html"/>
-    <id>https://github.com/morandi484/morandi484.github.io.git/posts/1.html</id>
-    <published>2021-05-27T13:00:00.000Z</published>
-    <updated>2021-09-07T14:52:39.538Z</updated>
+    <title>Alpha Design</title>
+    <link href="https://github.com/morandi484/morandi484.github.io.git/posts/2.html"/>
+    <id>https://github.com/morandi484/morandi484.github.io.git/posts/2.html</id>
+    <published>2022-04-20T13:00:00.000Z</published>
+    <updated>2022-04-21T14:47:05.615Z</updated>
     
-    <content type="html"><![CDATA[<p>相遇皆是缘分</p><h3 id="为什么建博客？"><a href="#为什么建博客？" class="headerlink" title="为什么建博客？"></a>为什么建博客？</h3><p>肿么说了! 纯属个人兴趣，好玩，唉，就是玩!嘻嘻! 会有些成就感吧,拥有一个自己的博客写一些自己感兴趣的事或物,不是一件很酷的事嘛!</p><h3 id="展望博客"><a href="#展望博客" class="headerlink" title="展望博客"></a>展望博客</h3><p>我会整理一些个人所学的知识（学前端的，也会捣鼓捣鼓一些其它的专业的知识）或生活方面有兴趣的事发到博客上供大家观摩</p><h3 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h3><p>有位可爱的（小）朋友，给我取名叫 “仙气”，这是也是我博客上自居 “仙气” 的由来。喜欢自己所喜欢的，做自己想做的，追求自由与潇洒，多酷啊！ 想法是美好的，可现实… …   给大家推荐一首诗吧</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"> 《自由与爱情》---作者:裴多菲​ 生命诚可贵​ 爱情价更高​ 若为自由故​ 二者皆可抛<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>溜溜球啦！</p>]]></content>
+    <content type="html"><![CDATA[<p>进步一点点</p><h2 id="Alpha-Design"><a href="#Alpha-Design" class="headerlink" title="Alpha Design"></a>Alpha Design</h2><p>原研哉，平面设计师，日本设计中心代表取缔役社长，武藏野美术大学教授，日本平面设计协会副会长。</p><h2 id="Sample"><a href="#Sample" class="headerlink" title="Sample"></a>Sample</h2><p><img src="https://wx4.sinaimg.cn/large/0089nnrQly4gt4k646rhkj30rs0rsta1.jpg"></p><p><img src="https://wx2.sinaimg.cn/large/0089nnrQly4gt4k6427eyj30rs0ew74n.jpg"></p><p><img src="https://wx1.sinaimg.cn/large/0089nnrQly4gt4kcwnsy1j30q00h8wfu.jpg"></p><p><img src="https://wx3.sinaimg.cn/large/0089nnrQly4gt4k6431nhj30q00h8t9e.jpg"></p><p><img src="https://wx3.sinaimg.cn/large/0089nnrQly4gt4k6463gtj30u00ir0tn.jpg"></p><p><img src="https://wx1.sinaimg.cn/large/0089nnrQly4gt4keg91n9j30hs0btmyf.jpg"></p><h2 id="Recommend"><a href="#Recommend" class="headerlink" title="Recommend"></a>Recommend</h2><p><img src="https://wx3.sinaimg.cn/large/0089nnrQly4gt4k64mq2uj30ku113kb0.jpg"></p><p>溜溜球啦！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;相遇皆是缘分&lt;/p&gt;
-&lt;h3 id=&quot;为什么建博客？&quot;&gt;&lt;a href=&quot;#为什么建博客？&quot; class=&quot;headerlink&quot; title=&quot;为什么建博客？&quot;&gt;&lt;/a&gt;为什么建博客？&lt;/h3&gt;&lt;p&gt;肿么说了! 纯属个人兴趣，好玩，唉，就是玩!嘻嘻! 会有些成就感吧,拥有</summary>
+    <summary type="html">&lt;p&gt;进步一点点&lt;/p&gt;
+&lt;h2 id=&quot;Alpha-Design&quot;&gt;&lt;a href=&quot;#Alpha-Design&quot; class=&quot;headerlink&quot; title=&quot;Alpha Design&quot;&gt;&lt;/a&gt;Alpha Design&lt;/h2&gt;&lt;p&gt;原研哉，平面设计师，日本设计中心代</summary>
       
     
     
     
-    <category term="生活" scheme="https://github.com/morandi484/morandi484.github.io.git/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="设计" scheme="https://github.com/morandi484/morandi484.github.io.git/categories/%E8%AE%BE%E8%AE%A1/"/>
     
     
     <category term="想法" scheme="https://github.com/morandi484/morandi484.github.io.git/tags/%E6%83%B3%E6%B3%95/"/>
@@ -67,19 +68,21 @@
   </entry>
   
   <entry>
-    <title>博客与博主</title>
-    <link href="https://github.com/morandi484/morandi484.github.io.git/posts/1.html"/>
-    <id>https://github.com/morandi484/morandi484.github.io.git/posts/1.html</id>
+    <title>Wait a moment 究竟要别人等多久？</title>
+    <link href="https://github.com/morandi484/morandi484.github.io.git/posts/9560087c.html"/>
+    <id>https://github.com/morandi484/morandi484.github.io.git/posts/9560087c.html</id>
     <published>2021-05-27T13:00:00.000Z</published>
-    <updated>2021-09-07T14:52:39.538Z</updated>
+    <updated>2022-04-21T15:08:38.245Z</updated>
     
-    <content type="html"><![CDATA[<p>相遇皆是缘分</p><h3 id="为什么建博客？"><a href="#为什么建博客？" class="headerlink" title="为什么建博客？"></a>为什么建博客？</h3><p>肿么说了! 纯属个人兴趣，好玩，唉，就是玩!嘻嘻! 会有些成就感吧,拥有一个自己的博客写一些自己感兴趣的事或物,不是一件很酷的事嘛!</p><h3 id="展望博客"><a href="#展望博客" class="headerlink" title="展望博客"></a>展望博客</h3><p>我会整理一些个人所学的知识（学前端的，也会捣鼓捣鼓一些其它的专业的知识）或生活方面有兴趣的事发到博客上供大家观摩</p><h3 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h3><p>有位可爱的（小）朋友，给我取名叫 “仙气”，这是也是我博客上自居 “仙气” 的由来。喜欢自己所喜欢的，做自己想做的，追求自由与潇洒，多酷啊！ 想法是美好的，可现实… …   给大家推荐一首诗吧</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"> 《自由与爱情》---作者:裴多菲​ 生命诚可贵​ 爱情价更高​ 若为自由故​ 二者皆可抛<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>溜溜球啦！</p>]]></content>
+    <content type="html"><![CDATA[<p>进步一点点</p><p><strong>01.</strong></p><p><strong>A moment究竟是多久？</strong></p><p><img src="https://s1.ax1x.com/2022/04/21/Lg9Bsx.jpg" alt="图片"></p><p>Wait a moment是一个很常用的句子，需要注意的是，a moment其实很快，如果你需要别人等较久的时间，要用a while。</p><p>不过，如果直接说wait a while，听起来就有点harsh（刺耳；严厉）。你可以加上其他词来软化它:</p><ul><li><strong>You might have to wait a while.</strong> 你可能得等一会儿。</li></ul><p>这里加上might就显得更委婉、客气。</p><p><img src="https://s1.ax1x.com/2022/04/21/Lg9ZdS.jpg" alt="图片"></p><p>当你去网红餐厅排队等位的时候，服务员可能告诉你：</p><ul><li><strong>I’m afraid it might take a while.</strong> 恐怕要等一段时间。</li></ul><p>国外有些餐厅会在等位区摆一张桌子，你可以坐在那张桌子旁边但是不能点菜吃。</p><ul><li><strong>It is a waiting table.</strong> 这是等待台。</li></ul><p>Wait还可以作名词：</p><ul><li><strong>It might be a long wait.</strong> 可能要等很长一段时间。</li></ul><p><strong>02.</strong></p><p><strong>Drop the “wait”</strong></p><p><img src="https://s1.ax1x.com/2022/04/21/Lg9xO0.jpg" alt="图片"></p><p>其实，英语国家的人很少直接用wait，即使要用，也会用非常礼貌的语言来修饰它。现在我们就来讲一些不带wait却能表示“等一会”的说法。</p><ul><li><strong>Just a moment.</strong> 就一小会。</li></ul><p>这种表达把wait a moment里的wait去掉了，听起来更有礼貌。</p><p>更口语的说法——hold on。</p><ul><li><strong>Can you hold on for one second?</strong> 你能稍等一小会吗？</li></ul><p>告诉别人等一会，不要那么猴急，中文说“猴”，英文说“马”：</p><ul><li><strong>Hold your horses.</strong></li></ul><p>“勒住你的马”，也就是说稍安勿躁，慢慢来。</p><p>Hang on也是一种非正式的表达。</p><ul><li><strong>Hang on. We gotta fix this.</strong> 稍等一下，我们得解决这个问题。</li></ul><p>“给我一些时间”可以说：</p><ul><li><strong>Give me a minute/second.</strong></li></ul><p><img src="https://s1.ax1x.com/2022/04/21/LcIRun.jpg" alt="图片"></p><p>还有一种非常礼貌的用语：</p><ul><li><strong>Please bear with me.</strong> 请原谅我，请忍一忍。</li></ul><p>这里的bear可不是熊。Bear作动词表示“忍受”。Bear with me意思也就是give me a break / go easy on me.（请稍候，忍我一下）</p><p><strong>03.</strong></p><p><strong>“等等我”不是wait me</strong></p><p><img src="https://s1.ax1x.com/2022/04/21/LgCFfJ.jpg" alt="图片"></p><p>中国人常常把“等等我”说成wait me，这其实是错误的。“等着我”英语是：</p><ul><li><strong>Wait for me.</strong></li></ul><p>Wait for不仅可以用于等人，还可以用于等车：wait for the bus/train。</p><ul><li><strong>I’m waiting to get on the plane.</strong></li><li><strong>I’m waiting at the airport.</strong></li><li><strong>Wait for a table.</strong> 等座位</li></ul><p><img src="https://s1.ax1x.com/2022/04/21/Lc4U8H.jpg" alt="图片"></p><p>英语里面还有一种说法是wait（on）tables，这里的wait可不是等位，而是指餐厅服务员的工作——to work as a waiter。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;相遇皆是缘分&lt;/p&gt;
-&lt;h3 id=&quot;为什么建博客？&quot;&gt;&lt;a href=&quot;#为什么建博客？&quot; class=&quot;headerlink&quot; title=&quot;为什么建博客？&quot;&gt;&lt;/a&gt;为什么建博客？&lt;/h3&gt;&lt;p&gt;肿么说了! 纯属个人兴趣，好玩，唉，就是玩!嘻嘻! 会有些成就感吧,拥有</summary>
+    <summary type="html">&lt;p&gt;进步一点点&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;01.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A moment究竟是多久？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s1.ax1x.com/2022/04/21/Lg9Bsx.jpg&quot; alt=</summary>
       
     
     
